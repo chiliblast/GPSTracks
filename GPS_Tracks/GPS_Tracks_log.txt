@@ -1,0 +1,269 @@
+Project: C:\GPS_Tracks\GPS_Tracks.egmd
+Log begin......v=8.404
+Now time is:11-Apr-17 11:01:34 PM
+
+[MapsType]
+MapsType=1
+
+Left Longitude  input= 153.3
+Right Longitude input= 153.9
+Top Latitude    input= -28.4
+Bottom Latitude input= -28.8
+
+MinX = 7584
+MinY = 4770
+MaxX = 7598
+MaxY = 4780
+
+Left Longitude  download=153.28125
+Right Longitude download=153.9404296875
+Top Latitude    download=-28.381735040575
+Bottom Latitude download=-28.8061735061743
+
+All lat/long information of tiles are saved to C:\GPS_Tracks\GPS_Tracks_list*.txt
+
+Total count of images would be downloaded: 165
+
+Zoom level: 13
+
+path: C:\GPS_Tracks\
+
+Start downloading...
+-----------------------------------------
+Writing list file, please wait...this may take some time...
+Writing list file OK!
+
+Writing status file, please wait...this may take some time...
+Write status file OK!
+
+Initializing array, please wait...this may take some time...
+Initializing array OK!
+ 
+T2 gs_7584_4772_13.jpg: OK
+T0 gs_7584_4770_13.jpg: OK
+T3 gs_7584_4773_13.jpg: OK
+T4 gs_7584_4774_13.jpg: OK
+T5 gs_7584_4775_13.jpg: OK
+T6 gs_7584_4776_13.jpg: OK
+T8 gs_7584_4778_13.jpg: OK
+T9 gs_7584_4779_13.jpg: OK
+T11 gs_7585_4770_13.jpg: OK
+T14 gs_7585_4773_13.jpg: OK
+T10 gs_7584_4780_13.jpg: OK
+T15 gs_7585_4774_13.jpg: OK
+T12 gs_7585_4771_13.jpg: OK
+T16 gs_7585_4775_13.jpg: OK
+T18 gs_7585_4777_13.jpg: OK
+T20 gs_7585_4779_13.jpg: OK
+T21 gs_7585_4780_13.jpg: OK
+T19 gs_7585_4778_13.jpg: OK
+T7 gs_7584_4777_13.jpg: OK
+T1 gs_7584_4771_13.jpg: OK
+T23 gs_7586_4771_13.jpg: OK
+T22 gs_7586_4770_13.jpg: OK
+T24 gs_7586_4772_13.jpg: OK
+T26 gs_7586_4774_13.jpg: OK
+T27 gs_7586_4775_13.jpg: OK
+T28 gs_7586_4776_13.jpg: OK
+T30 gs_7586_4778_13.jpg: OK
+T34 gs_7587_4771_13.jpg: OK
+T33 gs_7587_4770_13.jpg: OK
+T35 gs_7587_4772_13.jpg: OK
+T31 gs_7586_4779_13.jpg: OK
+T17 gs_7585_4776_13.jpg: OK
+
+Now time is:11-Apr-17 11:01:39 PM
+Running thread count is:14
+
+T38 gs_7587_4775_13.jpg: OK
+T29 gs_7586_4777_13.jpg: OK
+T39 gs_7587_4776_13.jpg: OK
+T32 gs_7586_4780_13.jpg: OK
+T41 gs_7587_4778_13.jpg: OK
+T37 gs_7587_4774_13.jpg: OK
+T25 gs_7586_4773_13.jpg: OK
+T44 gs_7588_4770_13.jpg: OK
+T43 gs_7587_4780_13.jpg: OK
+T46 gs_7588_4772_13.jpg: OK
+T42 gs_7587_4779_13.jpg: OK
+T47 gs_7588_4773_13.jpg: OK
+T50 gs_7588_4776_13.jpg: OK
+T48 gs_7588_4774_13.jpg: OK
+T45 gs_7588_4771_13.jpg: OK
+T51 gs_7588_4777_13.jpg: OK
+T49 gs_7588_4775_13.jpg: OK
+T52 gs_7588_4778_13.jpg: OK
+T53 gs_7588_4779_13.jpg: OK
+T56 gs_7589_4771_13.jpg: OK
+T55 gs_7589_4770_13.jpg: OK
+T57 gs_7589_4772_13.jpg: OK
+T54 gs_7588_4780_13.jpg: OK
+T59 gs_7589_4774_13.jpg: OK
+T58 gs_7589_4773_13.jpg: OK
+T40 gs_7587_4777_13.jpg: OK
+T36 gs_7587_4773_13.jpg: OK
+T60 gs_7589_4775_13.jpg: OK
+T62 gs_7589_4777_13.jpg: OK
+T61 gs_7589_4776_13.jpg: OK
+T63 gs_7589_4778_13.jpg: OK
+T66 gs_7590_4770_13.jpg: OK
+T64 gs_7589_4779_13.jpg: OK
+T67 gs_7590_4771_13.jpg: OK
+T65 gs_7589_4780_13.jpg: OK
+T68 gs_7590_4772_13.jpg: OK
+T70 gs_7590_4774_13.jpg: OK
+T71 gs_7590_4775_13.jpg: OK
+T69 gs_7590_4773_13.jpg: OK
+T73 gs_7590_4777_13.jpg: OK
+T75 gs_7590_4779_13.jpg: OK
+T77 gs_7591_4770_13.jpg: OK
+T78 gs_7591_4771_13.jpg: OK
+T79 gs_7591_4772_13.jpg: OK
+T81 gs_7591_4774_13.jpg: OK
+T82 gs_7591_4775_13.jpg: OK
+T83 gs_7591_4776_13.jpg: OK
+T85 gs_7591_4778_13.jpg: OK
+
+Now time is:11-Apr-17 11:01:44 PM
+Running thread count is:13
+
+T86 gs_7591_4779_13.jpg: OK
+T84 gs_7591_4777_13.jpg: OK
+T74 gs_7590_4778_13.jpg: OK
+T87 gs_7591_4780_13.jpg: OK
+T88:404 Not Found http://khm2.google.com/kh/v=721&s=Ga&x=7592&y=4770&z=13
+T89:404 Not Found http://khm3.google.com/kh/v=721&s=Gal&x=7592&y=4771&z=13
+T90 gs_7592_4772_13.jpg: OK
+T91 gs_7592_4773_13.jpg: OK
+T92 gs_7592_4774_13.jpg: OK
+T93 gs_7592_4775_13.jpg: OK
+T94 gs_7592_4776_13.jpg: OK
+T13 gs_7585_4772_13.jpg: OK
+T95 gs_7592_4777_13.jpg: OK
+T96 gs_7592_4778_13.jpg: OK
+T97 gs_7592_4779_13.jpg: OK
+T98 gs_7592_4780_13.jpg: OK
+T100:404 Not Found http://khm3.google.com/kh/v=721&s=Galile&x=7593&y=4771&z=13
+T101 gs_7593_4772_13.jpg: OK
+T103 gs_7593_4774_13.jpg: OK
+T104 gs_7593_4775_13.jpg: OK
+T106 gs_7593_4777_13.jpg: OK
+T107 gs_7593_4778_13.jpg: OK
+T108 gs_7593_4779_13.jpg: OK
+T76 gs_7590_4780_13.jpg: OK
+T109 gs_7593_4780_13.jpg: OK
+T105 gs_7593_4776_13.jpg: OK
+T111:404 Not Found http://khm3.google.com/kh/v=721&s=G&x=7594&y=4771&z=13
+T112 gs_7594_4772_13.jpg: OK
+T113 gs_7594_4773_13.jpg: OK
+T114 gs_7594_4774_13.jpg: OK
+T99:404 Not Found http://khm2.google.com/kh/v=721&s=Galil&x=7593&y=4770&z=13
+T115 gs_7594_4775_13.jpg: OK
+T116 gs_7594_4776_13.jpg: OK
+T118 gs_7594_4778_13.jpg: OK
+T119 gs_7594_4779_13.jpg: OK
+T120 gs_7594_4780_13.jpg: OK
+T117 gs_7594_4777_13.jpg: OK
+T121:404 Not Found http://khm2.google.com/kh/v=721&s=Gal&x=7595&y=4770&z=13
+T72 gs_7590_4776_13.jpg: OK
+T80 gs_7591_4773_13.jpg: OK
+T124 gs_7595_4773_13.jpg: OK
+T125 gs_7595_4774_13.jpg: OK
+T122:404 Not Found http://khm3.google.com/kh/v=721&s=Gali&x=7595&y=4771&z=13
+T102 gs_7593_4773_13.jpg: OK
+T110:404 Not Found http://khm2.google.com/kh/v=721&s=&x=7594&y=4770&z=13
+T123 gs_7595_4772_13.jpg: OK
+T129 gs_7595_4778_13.jpg: OK
+T130 gs_7595_4779_13.jpg: OK
+T126 gs_7595_4775_13.jpg: OK
+T131 gs_7595_4780_13.jpg: OK
+T132:404 Not Found http://khm2.google.com/kh/v=721&s=Galile&x=7596&y=4770&z=13
+T133:404 Not Found http://khm3.google.com/kh/v=721&s=Galileo&x=7596&y=4771&z=13
+
+Now time is:11-Apr-17 11:01:49 PM
+Running thread count is:9
+
+T134:404 Not Found http://khm0.google.com/kh/v=721&s=&x=7596&y=4772&z=13
+T135:404 Not Found http://khm1.google.com/kh/v=721&s=G&x=7596&y=4773&z=13
+T137:404 Not Found http://khm3.google.com/kh/v=721&s=Gal&x=7596&y=4775&z=13
+T138:404 Not Found http://khm0.google.com/kh/v=721&s=Gali&x=7596&y=4776&z=13
+T136:404 Not Found http://khm2.google.com/kh/v=721&s=Ga&x=7596&y=4774&z=13
+T139:404 Not Found http://khm1.google.com/kh/v=721&s=Galil&x=7596&y=4777&z=13
+T128 gs_7595_4777_13.jpg: OK
+T140:404 Not Found http://khm2.google.com/kh/v=721&s=Galile&x=7596&y=4778&z=13
+T141:404 Not Found http://khm3.google.com/kh/v=721&s=Galileo&x=7596&y=4779&z=13
+T142:404 Not Found http://khm0.google.com/kh/v=721&s=&x=7596&y=4780&z=13
+T143:404 Not Found http://khm2.google.com/kh/v=721&s=G&x=7597&y=4770&z=13
+T144:404 Not Found http://khm3.google.com/kh/v=721&s=Ga&x=7597&y=4771&z=13
+T145:404 Not Found http://khm0.google.com/kh/v=721&s=Gal&x=7597&y=4772&z=13
+T146:404 Not Found http://khm1.google.com/kh/v=721&s=Gali&x=7597&y=4773&z=13
+T147:404 Not Found http://khm2.google.com/kh/v=721&s=Galil&x=7597&y=4774&z=13
+T148:404 Not Found http://khm3.google.com/kh/v=721&s=Galile&x=7597&y=4775&z=13
+T149:404 Not Found http://khm0.google.com/kh/v=721&s=Galileo&x=7597&y=4776&z=13
+T150:404 Not Found http://khm1.google.com/kh/v=721&s=&x=7597&y=4777&z=13
+T151:404 Not Found http://khm2.google.com/kh/v=721&s=G&x=7597&y=4778&z=13
+T152:404 Not Found http://khm3.google.com/kh/v=721&s=Ga&x=7597&y=4779&z=13
+T153:404 Not Found http://khm0.google.com/kh/v=721&s=Gal&x=7597&y=4780&z=13
+T155:404 Not Found http://khm3.google.com/kh/v=721&s=Galil&x=7598&y=4771&z=13
+T156:404 Not Found http://khm0.google.com/kh/v=721&s=Galile&x=7598&y=4772&z=13
+T157:404 Not Found http://khm1.google.com/kh/v=721&s=Galileo&x=7598&y=4773&z=13
+T158:404 Not Found http://khm2.google.com/kh/v=721&s=&x=7598&y=4774&z=13
+
+Checking missing tiles and re-download them, please wait...
+
+T154:404 Not Found http://khm2.google.com/kh/v=721&s=Gali&x=7598&y=4770&z=13
+T127 gs_7595_4776_13.jpg: OK
+T159:404 Not Found http://khm3.google.com/kh/v=721&s=G&x=7598&y=4775&z=13
+T160:404 Not Found http://khm0.google.com/kh/v=721&s=Ga&x=7598&y=4776&z=13
+T162:404 Not Found http://khm2.google.com/kh/v=721&s=Gali&x=7598&y=4778&z=13
+T163:404 Not Found http://khm3.google.com/kh/v=721&s=Galil&x=7598&y=4779&z=13
+T164:404 Not Found http://khm0.google.com/kh/v=721&s=Galile&x=7598&y=4780&z=13
+T161:404 Not Found http://khm1.google.com/kh/v=721&s=Gal&x=7598&y=4777&z=13
+
+Now time is:11-Apr-17 11:01:54 PM
+Running thread count is:0
+
+
+Checking missing tiles and re-download them, please wait...
+
+
+All tiles are downloaded!
+
+
+Now time:11-Apr-17 11:01:58 PM
+Writing status file now...please wait...
+Write status file OK.
+
+--------------------------------
+Task finished!
+
+Now time:11-Apr-17 11:01:58 PM
+
+Log file has been saved as C:\GPS_Tracks\GPS_Tracks_log.txt
+--------------------------------------------
+Log continue...v=8.404
+Now time is:11-Apr-17 11:05:11 PM
+
+Reading status file, please wait...this may take some time...
+Read status file OK!
+
+Initializing array, please wait...this may take some time...
+Initializing array OK!
+ 
+
+Checking missing tiles and re-download them, please wait...
+
+
+All tiles are downloaded!
+
+
+Now time:11-Apr-17 11:05:15 PM
+Writing status file now...please wait...
+Write status file OK.
+
+--------------------------------
+Task finished!
+
+Now time:11-Apr-17 11:05:15 PM
+
+Log file has been saved as C:\GPS_Tracks\GPS_Tracks_log.txt
